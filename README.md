@@ -1,7 +1,7 @@
-# 🚀 Wenjie Homelab Portfolio (N6005)
+# Wenjie Homelab Portfolio
 
 Cloud / DevOps focused homelab built on Intel N6005.
-Based in British Columbia 🇨🇦
+Based in British Columbia, Canada.
 
 ## Skills
 - VMware ESXi
